@@ -1,5 +1,5 @@
 
-## composer install
+## Instalar dependencias
 Ejecute "composer install"
 
 ## Crear la base de datos
